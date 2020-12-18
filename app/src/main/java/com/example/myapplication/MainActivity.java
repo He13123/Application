@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         getTime();
         jianting();
 
+
         Log.d("vvvvvvvvvvvvvvv", "onCreate: ");
     }
 
