@@ -30,8 +30,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         donghua();
         getTime();
         jianting();
-
-
     }
 
     private void getTime() {
@@ -59,9 +57,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             setKG(true);
 
         }
-
-
-
     }
 
     private void setKG(boolean is) {   //设置开关
