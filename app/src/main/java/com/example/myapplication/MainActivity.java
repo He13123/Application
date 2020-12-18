@@ -30,6 +30,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         donghua();
         getTime();
         jianting();
+
+
+
+
     }
 
     private void getTime() {
