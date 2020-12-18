@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    android:oneshot="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">    //oneshot是否只循环一编
+
+    //drawable是路径，duration是间隔的秒数
+    <item
+        android:drawable="@drawable/hong"
+        android:duration="2000"></item>
+    <item
+        android:drawable="@drawable/huang"
+        android:duration="2009"></item>
+    <item
+        android:drawable="@drawable/lv"
+        android:duration="2000"></item>
+</animation-list>
